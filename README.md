@@ -3,12 +3,6 @@
 ## Introduction
 STEDI-Human-Balance-Analytics is a project aimed at analyzing and monitoring human balance through sensor data. This project utilizes machine learning algorithms to provide insights into balance capabilities and improve health outcomes.
 
-## Features
-- Real-time sensor data analysis.
-- Reports on balance and health metrics.
-- User-friendly interface for tracking progress.
-
-
 ## Data Processing
 The project includes several scripts for data processing using AWS Glue. Below are the key scripts:
 
@@ -26,11 +20,7 @@ The project also defines external tables in AWS Athena for querying the data:
 ## Contributing
 We welcome contributions from the community. Please create a pull request or open an issue to discuss changes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-If you have any questions, please reach out to us via email: support@example.com.
 
 
 
