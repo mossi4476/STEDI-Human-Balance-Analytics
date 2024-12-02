@@ -21,6 +21,3 @@ The project also defines external tables in AWS Athena for querying the data:
 We welcome contributions from the community. Please create a pull request or open an issue to discuss changes.
 
 
-
-
-
